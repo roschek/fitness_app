@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264760941076",
+    "project_id": "my-fit-flutter",
+    "storage_bucket": "my-fit-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264760941076:android:dad17dc8ff06312398e501",
+        "android_client_info": {
+          "package_name": "com.roschek.fitprogect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264760941076-ggelmaiuft70e9b2hdiagjvd01fjhpo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdQJxluDeUR6gZ1uJ6tc2r1z4_xKvqYqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264760941076-ggelmaiuft70e9b2hdiagjvd01fjhpo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
